@@ -1,0 +1,472 @@
+res: {"data":[{"name":"nnnnnnnnnnnnnnnn","city":"ccccccccccccccccccccc","country":"cocoococococoo","color":"cllclclclcllclclclclccll","myimage":"http://gpl.bluealgo.com:8085/GPLImages/floor/a1J2s000000GmcMEAS.jpg","company":"Bizlem"}],"templateName":"PPT_check","typeDataSource":"Enter Manually","AttachtempalteType":"TemplateLibrary","esignature":"false","twofactor":"false","esigntype":"","Email":"nilesh@gmail.com","group":"G1","lgtype":"null","multipeDropDown":["1"],"Type":"Generation"}
+e :: java.net.MalformedURLException: no protocol: 
+res: {"TemplateUrl":"https://bluealgo.com:8083/portal/content/services/6444/G1/DocTigerAdvanced/TemplateLibrary/PPT_check/TemplateFile/File/PPT_check.pptx","accesstype":"public","<<name>>":"nnnnnnnnnnnnn","<<city>>":"cccccccccccccccccc","<<country>>":"cocoococooocococ","<<color>>":"cllclcllclclclcllclccl","<<myimage>>":"http://gpl.bluealgo.com:8085/GPLImages/floor/a1J2s000000GmcMEAS.jpg","<<company>>":"Bizlem","imagesArray":[{"fieldname":"{{myimage}}","fieldvalue":"http://gpl.bluealgo.com:8085/GPLImages/floor/a1J2s000000GmcMEAS.jpg"}],"TemplateName":"PPT_check","filename":"PPT_check.docx"}
+files saved
+imagesobject: {"{{myimage}}":"http://gpl.bluealgo.com:8085/GPLImages/floor/a1J2s000000GmcMEAS.jpg"}
+REDACT Slide: **********************************************************
+REDACT Slide: Property Image
+Textshapes.length 2
+textShape name Title 1
+textShape.getShapeName() Title 1
+textShape.getTextType() TITLE
+Property Image
+in else
+final text2 Property Image
+textShape name Content Placeholder 2
+textShape.getShapeName() Content Placeholder 2
+textShape.getTextType() CONTENT
+My name is  <<name>>
+in else
+textelementstr.indexOf("<<"): 12
+textelementstr.indexOf(">>"): 18
+key <<name>> textelementstr My name is  <<name>>
+paramsMap.get(key)nnnnnnnnnnnnn
+final text2 My name is  nnnnnnnnnnnnn
+GODREJ SKYLINE DEVELOPERS PRIVATE LIMITED,
+in else
+final text2 GODREJ SKYLINE DEVELOPERS PRIVATE LIMITED,
+ a private limited company incorporated under the 
+in else
+final text2  a private limited company incorporated under the 
+<<company>>  Act
+in else
+textelementstr.indexOf("<<"): 0
+textelementstr.indexOf(">>"): 9
+key <<company>> textelementstr <<company>>  Act
+paramsMap.get(key)Bizlem
+final text2 Bizlem  Act
+, 2013 having its registered office at Godrej One, 5
+in else
+final text2 , 2013 having its registered office at Godrej One, 5
+th
+in else
+final text2 th
+ Floor, 
+in else
+final text2  Floor, 
+Pirojshanagar
+in else
+final text2 Pirojshanagar
+, Eastern Express Highway, 
+in else
+final text2 , Eastern Express Highway, 
+Vikhroli
+in else
+final text2 Vikhroli
+, 
+in else
+final text2 , 
+<<city>> 400079 
+in else
+textelementstr.indexOf("<<"): 0
+textelementstr.indexOf(">>"): 6
+key <<city>> textelementstr <<city>> 400079 
+paramsMap.get(key)cccccccccccccccccc
+final text2 cccccccccccccccccc 400079 
+and 
+in else
+final text2 and 
+slide table start =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+REDACT Slide: **********************************************************
+REDACT Slide: {{myimage}}
+Textshapes.length 2
+textShape name Title 1
+textShape.getShapeName() Title 1
+textShape.getTextType() TITLE
+{{
+myimage
+in else
+final text2 myimage
+}}
+in else
+final text2 }}
+textShape name Content Placeholder 3
+textShape.getShapeName() Content Placeholder 3
+textShape.getTextType() CONTENT
+<<country>>
+valuecocoococooocococ
+final text 1 cocoococooocococ
+<<
+in else
+final text2 <<
+color
+in else
+final text2 color
+>>
+in else
+final text2 >>
+slide table start =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+2textparagraphs :: {{
+in else
+2textparagraphs :: myimage
+in else
+2textparagraphs :: }}      <<country>>
+in else
+textelementstr.indexOf("<<"): 8
+textelementstr.indexOf(">>"): 17
+key <<country>> textelementstr }}      <<country>>
+paramsMap.get(key)cocoococooocococ
+slide textbox end =================================================================================================
+REDACT Slide: **********************************************************
+REDACT Slide: Table Ex
+Textshapes.length 1
+textShape name Title 1
+textShape.getShapeName() Title 1
+textShape.getTextType() TITLE
+Table Ex
+in else
+final text2 Table Ex
+slide table start =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+table <xml-fragment xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+  <a:tblPr bandRow="1" firstRow="1">
+    <a:tableStyleId>{5C22544A-7EE6-4342-B048-85BDC9FD1C3A}</a:tableStyleId>
+  </a:tblPr>
+  <a:tblGrid>
+    <a:gridCol w="2590800"/>
+    <a:gridCol w="2438400"/>
+    <a:gridCol w="1143000"/>
+    <a:gridCol w="2057400"/>
+  </a:tblGrid>
+  <a:tr h="370840">
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr dirty="0" lang="en-US" smtClean="0"/>
+            <a:t>Test</a:t>
+          </a:r>
+          <a:endParaRPr dirty="0" lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>Test</a:t>
+          </a:r>
+          <a:endParaRPr lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>Test</a:t>
+          </a:r>
+          <a:endParaRPr lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>Test</a:t>
+          </a:r>
+          <a:endParaRPr lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+  </a:tr>
+  <a:tr h="370840">
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>My name is</a:t>
+          </a:r>
+          <a:r>
+            <a:rPr baseline="0" lang="en-US" smtClean="0"/>
+            <a:t>&lt;&lt;name>></a:t>
+          </a:r>
+          <a:endParaRPr dirty="0" lang="en-US" smtClean="0"/>
+        </a:p>
+        <a:p>
+          <a:r>
+            <a:rPr dirty="0" lang="en-US" smtClean="0"/>
+            <a:t>My</a:t>
+          </a:r>
+          <a:r>
+            <a:rPr dirty="0" err="1" lang="en-US" smtClean="0"/>
+            <a:t>fav</a:t>
+          </a:r>
+          <a:r>
+            <a:rPr dirty="0" lang="en-US" smtClean="0"/>
+            <a:t></a:t>
+          </a:r>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>color is</a:t>
+          </a:r>
+          <a:r>
+            <a:rPr baseline="0" lang="en-US" smtClean="0"/>
+            <a:t>&lt;&lt;color>></a:t>
+          </a:r>
+          <a:endParaRPr dirty="0" lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>value</a:t>
+          </a:r>
+          <a:endParaRPr lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr dirty="0" lang="en-US" smtClean="0"/>
+            <a:t>name</a:t>
+          </a:r>
+          <a:endParaRPr dirty="0" lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>name</a:t>
+          </a:r>
+          <a:endParaRPr lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+  </a:tr>
+  <a:tr h="370840">
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr dirty="0" lang="en-US" smtClean="0"/>
+            <a:t>This is</a:t>
+          </a:r>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>test test</a:t>
+          </a:r>
+          <a:r>
+            <a:rPr baseline="0" lang="en-US" smtClean="0"/>
+            <a:t>&lt;&lt;color>></a:t>
+          </a:r>
+          <a:endParaRPr dirty="0" lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr dirty="0" lang="en-US" smtClean="0"/>
+            <a:t>&lt;&lt;</a:t>
+          </a:r>
+          <a:r>
+            <a:rPr dirty="0" err="1" lang="en-US" smtClean="0"/>
+            <a:t>myimage</a:t>
+          </a:r>
+          <a:r>
+            <a:rPr dirty="0" lang="en-US" smtClean="0"/>
+            <a:t>>></a:t>
+          </a:r>
+          <a:endParaRPr dirty="0" lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>value</a:t>
+          </a:r>
+          <a:endParaRPr lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+    <a:tc>
+      <a:txBody>
+        <a:bodyPr/>
+        <a:lstStyle/>
+        <a:p>
+          <a:r>
+            <a:rPr lang="en-US" smtClean="0"/>
+            <a:t>color</a:t>
+          </a:r>
+          <a:endParaRPr lang="en-US"/>
+        </a:p>
+      </a:txBody>
+      <a:tcPr/>
+    </a:tc>
+  </a:tr>
+</xml-fragment>
+column 4
+rows 3
+****new row *****
+Test
+in else
+Test
+in else
+Test
+in else
+Test
+in else
+****new row *****
+My name is
+in else
+ <<name>>
+in else
+textelementstr.indexOf("<<"): 1
+textelementstr.indexOf(">>"): 7
+key <<name>> textelementstr  <<name>>
+datajson.get(key)nnnnnnnnnnnnn
+My 
+in else
+fav
+in else
+ 
+in else
+color is
+in else
+ <<color>>
+in else
+textelementstr.indexOf("<<"): 1
+textelementstr.indexOf(">>"): 8
+key <<color>> textelementstr  <<color>>
+datajson.get(key)cllclcllclclclcllclccl
+value
+in else
+name
+in else
+name
+in else
+****new row *****
+This is 
+in else
+test test
+in else
+ <<color>>
+in else
+textelementstr.indexOf("<<"): 1
+textelementstr.indexOf(">>"): 8
+key <<color>> textelementstr  <<color>>
+datajson.get(key)cllclcllclclclcllclccl
+<<
+in else
+myimage
+in else
+>>
+in else
+value
+in else
+color
+in else
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+3textparagraphs ::  
+in else
+3textparagraphs :: {{
+in else
+3textparagraphs :: myimage
+in else
+3textparagraphs :: }}
+in else
+slide textbox end =================================================================================================
+REDACT Slide: **********************************************************
+REDACT Slide: 
+Textshapes.length 2
+textShape name Title 1
+textShape.getShapeName() Title 1
+textShape.getTextType() TITLE
+textShape name Content Placeholder 2
+textShape.getShapeName() Content Placeholder 2
+textShape.getTextType() CONTENT
+ 
+in else
+final text2  
+{{
+myimage
+in else
+final text2 myimage
+}}
+in else
+final text2 }}
+slide table start =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+slide table end =================================================================================================
+slide textbox start =================================================================================================
+slide textbox end =================================================================================================
+savepath /home/vil/sling tomcat/apache-tomcat-6.0.35/webapps/ROOT/Attachment/PPT/302PPT_check.pptx

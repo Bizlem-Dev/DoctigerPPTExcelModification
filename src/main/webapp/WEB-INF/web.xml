@@ -1,0 +1,101 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>CheckExcelSize</servlet-name>
+  	<display-name>CheckExcelSize</display-name>
+  	<description></description>
+  	<servlet-class>com.servlet.CheckExcelSize</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>DoctigerContactServlet</servlet-name>
+  	<display-name>DoctigerContactServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.servlet.DoctigerContactServlet</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>WordToPdfServlet</servlet-name>
+  	<display-name>WordToPdfServlet</display-name>
+  	<description></description>
+  	<servlet-class>wordtopdf.WordToPdfServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>HtmlToDocxServlet</servlet-name>
+  	<display-name>HtmlToDocxServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.servlet.HtmlToDocxServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>TwilioServlet</servlet-name>
+  	<display-name>TwilioServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.twiliosms.TwilioServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>TejalExcelReadServlet</servlet-name>
+  	<display-name>TejalExcelReadServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.tejal.excel.TejalExcelReadServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>GodrejServlet</servlet-name>
+  	<display-name>GodrejServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.godrej.GodrejServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>PPTModificationServ</servlet-name>
+  	<display-name>PPTModificationServ</display-name>
+  	<description></description>
+  	<servlet-class>com.servlet.PPTModificationServ</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>EXCELModificationServ</servlet-name>
+  	<display-name>EXCELModificationServ</display-name>
+  	<description></description>
+  	<servlet-class>com.servlet.EXCELModificationServ</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>CheckExcelSize</servlet-name>
+  	<url-pattern>/CheckExcelSize</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>DoctigerContactServlet</servlet-name>
+  	<url-pattern>/DoctigerContactServlet</url-pattern>
+  </servlet-mapping>
+  
+   <servlet-mapping>
+  	<servlet-name>WordToPdfServlet</servlet-name>
+  	<url-pattern>/WordToPdfServlet</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+   	<servlet-name>HtmlToDocxServlet</servlet-name>
+   	<url-pattern>/HtmlToDocxServlet</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   	<servlet-name>TwilioServlet</servlet-name>
+   	<url-pattern>/TwilioServlet</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   	<servlet-name>TejalExcelReadServlet</servlet-name>
+   	<url-pattern>/TejalExcelReadServlet</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   	<servlet-name>GodrejServlet</servlet-name>
+   	<url-pattern>/GodrejServlet</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   	<servlet-name>PPTModificationServ</servlet-name>
+   	<url-pattern>/PPTModificationServ</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   	<servlet-name>EXCELModificationServ</servlet-name>
+   	<url-pattern>/EXCELModificationServ</url-pattern>
+   </servlet-mapping>
+  
+</web-app>
